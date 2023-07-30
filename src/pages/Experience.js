@@ -18,7 +18,6 @@ function Experience() {
                     <h3 className="vertical-timeline-element-title">
                         Classe Préparatoire Lycée Blaise Pascal MPSI - MP*
                     </h3>
-
                 </VerticalTimelineElement>
             </VerticalTimeline>
         </div>
