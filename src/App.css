@@ -1,6 +1,11 @@
 .App {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
   font-family: 'Helvetica', 'Arial', sans-serif;
   text-align: center;
+  background-color: #f0f0f0;
 }
 
 body {
