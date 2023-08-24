@@ -9,4 +9,8 @@ export const ProjectList = [
         name: "Dbfz Reader",
         image: Proj1
     },
+    {
+        name: "Paxos Implementation",
+        image: Proj1
+    }
 ]
